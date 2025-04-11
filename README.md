@@ -8,3 +8,5 @@ PyTorch-Keras KeyPoint Detection of different objects
 - Both notebooks have been trained in local computer with RTX 4070 GPU.
 
 * This repo includes a good example for showing small differences between two frameworks.
+
+* Related images can be obtained via [link](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar)
