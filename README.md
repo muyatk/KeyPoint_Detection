@@ -10,3 +10,5 @@ PyTorch-Keras KeyPoint Detection of different objects
 * This repo includes a good example for showing small differences between two frameworks.
 
 * Related images can be obtained via [link](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar)
+
+* This KeyPoint Detection example serves as a strong end-to-end reference implementation. It can be further enhanced by experimenting with different model architectures or by improving the data augmentation strategy.
